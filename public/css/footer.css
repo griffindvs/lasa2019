@@ -1,4 +1,5 @@
 .footer-distributed{
+	height: 155px;
 	background-color: #292c2f;
 	box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
 	box-sizing: border-box;
@@ -12,14 +13,14 @@
 
 .footer-distributed .footer-left p{
 	color:  #c1c1c1;
-	font-size: 18px;
+	font-size: 16px;
 	margin: 0;
 }
 
 /* Footer links */
 
 .footer-distributed p.footer-links{
-	font-size:20px;
+	font-size:18px;
 	font-weight: 500;
 	color:  #ffffff;
 	margin: 0 0 10px;
@@ -50,7 +51,7 @@
 	background-color:  #33383b;
 	border-radius: 2px;
 
-	font-size: 20px;
+	font-size: 18px;
 	color: #ffffff;
 	text-align: center;
 	line-height: 35px;
