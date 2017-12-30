@@ -15,3 +15,4 @@ This GitHub repository allows anyone to assit in updating the [LASA Class of 201
 - [ ] 2018 AP Test Dates
 - [ ] 2018 Final Schedule
 - [x] 2017 Midterm Schedule
+- [x] Footer Revamp
