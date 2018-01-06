@@ -1,5 +1,16 @@
+@media screen and (max-width: 480px){
+	.footer-distributed{
+		height: auto;
+	}
+}
+
+@media screen and (min-width: 480px){
+	.footer-distributed{
+		height: 155px;
+	}
+}
+
 .footer-distributed{
-	height: 155px;
 	background-color: #292c2f;
 	box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
 	box-sizing: border-box;
