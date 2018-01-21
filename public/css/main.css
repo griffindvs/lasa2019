@@ -51,6 +51,22 @@ h6 {
 .text-faded {
   color: rgba(255, 255, 255, 0.7); }
 
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #271f3a;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #7D40EF;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #6027EE;
+}
+
 section {
   padding: 8rem 0; }
 
