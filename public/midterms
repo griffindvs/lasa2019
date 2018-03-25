@@ -30,7 +30,7 @@
     <link href="css/footer.min.css" rel="stylesheet">
 
     <!-- Website Info -->
-    <title>LASA 2019</title>
+    <title>LASA 2019 | Midterms</title>
     <meta name="description" content="The home of LASA's class of 2019.">
     <meta name="twitter:card" description="summary_large_image" content="/img/OpenGraphLogo.png">
     <meta name="twitter:description" content="The home of LASA's class of 2019.">
@@ -38,7 +38,7 @@
     <meta name="twitter:creator" content="@griffincdavis">
     <meta property="og:title" content="LASA 2019">
     <meta property="og:description" content="The home of LASA's class of 2019.">
-    <meta property="og:url" content="https://lasa2019.com">
+    <meta property="og:url" content="https://lasa2019.com/midterms">
     <meta property="og:image" content="/img/OpenGraphLogo.png">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="LASA 2019">
@@ -65,22 +65,23 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item">
-              <a class="nav-link" href="index.html#top">Home</a>
+              <a class="nav-link" href="index#top">Home</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="index.html#resources">Resources</a>
+              <a class="nav-link" href="index#resources">Resources</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="index.html#remind">Remind Request</a>
+              <a class="nav-link" href="index#remind">Remind Request</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="index.html#about">About</a>
+              <a class="nav-link" href="index#about">About</a>
             </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">More</a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                 <a class="dropdown-item" href="https://schedules.lasa2019.com" target="_blank">Schedules</a>
-                <a class="dropdown-item" href="midterms.html">Midterms 2017</a>
+                <a class="dropdown-item" href="prom">Prom 2018</a>
+                <a class="dropdown-item" href="midterms">Midterms 2017</a>
                 <!-- <div class="dropdown-divider"></div> -->
               </div>
             </li>
