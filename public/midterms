@@ -71,7 +71,7 @@
               <a class="nav-link" href="index.html#resources">Resources</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="index.html#remind">Remind Request</a>
+              <a class="dropdown-item" href="prom">Prom 2018</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="index.html#about">About</a>
@@ -80,7 +80,7 @@
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">More</a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                 <a class="dropdown-item" href="https://schedules.lasa2019.com" target="_blank">Schedules</a>
-                <a class="dropdown-item" href="prom">Prom 2018</a>
+                <a class="dropdown-item" href="index.html#remind">Remind Request</a>
                 <a class="dropdown-item" href="midterms">Midterms 2017</a>
                 <!-- <div class="dropdown-divider"></div> -->
               </div>
