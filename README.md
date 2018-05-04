@@ -12,7 +12,7 @@ This GitHub repository allows anyone to assit in updating the [LASA Class of 201
 - [x] Add Lisa M. biography and photo
 
 #### Possible Updates
-- [ ] 2018 AP Test Dates
-- [ ] 2018 Final Schedule
+- [x] 2018 AP Test Dates
+- [x] 2018 Final Schedule
 - [x] 2017 Midterm Schedule
 - [x] Footer Revamp
