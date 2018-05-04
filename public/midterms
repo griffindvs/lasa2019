@@ -30,7 +30,7 @@
     <link href="css/footer.min.css" rel="stylesheet">
 
     <!-- Website Info -->
-    <title>LASA 2019 | Midterms</title>
+    <title>LASA 2019 | Midterms 2017</title>
     <meta name="description" content="The home of LASA's class of 2019.">
     <meta name="twitter:card" description="summary_large_image" content="/img/OpenGraphLogo.png">
     <meta name="twitter:description" content="The home of LASA's class of 2019.">
@@ -74,7 +74,10 @@
               <a class="nav-link" href="index.html#about">About</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="prom">Prom 2018</a>
+              <a class="nav-link" href="ap">AP Testing 2018</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="finals">Finals 2018</a>
             </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">More</a>
@@ -82,6 +85,7 @@
                 <a class="dropdown-item" href="https://schedules.lasa2019.com" target="_blank">Schedules</a>
                 <a class="dropdown-item" href="run">StuCo Elections</a>
                 <a class="dropdown-item" href="index.html#remind">Remind Request</a>
+                <a class="dropdown-item" href="prom">Prom 2018</a>
                 <a class="dropdown-item" href="midterms">Midterms 2017</a>
                 <!-- <div class="dropdown-divider"></div> -->
               </div>

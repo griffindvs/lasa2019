@@ -73,6 +73,12 @@
             <li class="nav-item">
               <a class="nav-link" href="index.html#about">About</a>
             </li>
+            <li class="nav-item">
+              <a class="nav-link" href="ap">AP Testing 2018</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="finals">Finals 2018</a>
+            </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">More</a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
