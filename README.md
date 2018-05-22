@@ -12,6 +12,8 @@ This GitHub repository allows anyone to assit in updating the [LASA Class of 201
 - [x] Add Lisa M. biography and photo
 
 #### Possible Updates
+- [ ] Firebase script for file extensions
+- [ ] Migrate to Jekyll
 - [x] 2018 AP Test Dates
 - [x] 2018 Final Schedule
 - [x] 2017 Midterm Schedule
