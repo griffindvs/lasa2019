@@ -74,9 +74,6 @@
               <a class="nav-link" href="index.html#about">About</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="ap">AP Testing 2018</a>
-            </li>
-            <li class="nav-item">
               <a class="nav-link" href="finals">Finals 2018</a>
             </li>
             <li class="nav-item dropdown">
@@ -85,6 +82,7 @@
                 <a class="dropdown-item" href="https://schedules.lasa2019.com" target="_blank">Schedules</a>
                 <a class="dropdown-item" href="run">StuCo Elections</a>
                 <a class="dropdown-item" href="index.html#remind">Remind Request</a>
+                <a class="dropdown-item" href="ap">AP Testing 2018</a>
                 <a class="dropdown-item" href="prom">Prom 2018</a>
                 <a class="dropdown-item" href="midterms">Midterms 2017</a>
                 <!-- <div class="dropdown-divider"></div> -->
@@ -142,7 +140,7 @@
             <tr>
               <td>1:40pm - 3:45pm</td>
               <td>Weather Makeup FIT</td>
-              <td>60 minutes</td>
+              <td>120 minutes</td>
             </tr>
           </tbody>
           <thead class="thead-dark">
@@ -178,7 +176,7 @@
             <tr>
               <td>1:40pm - 3:45pm</td>
               <td>Weather Makeup FIT</td>
-              <td>60 minutes</td>
+              <td>120 minutes</td>
             </tr>
           </tbody>
           <thead class="thead-dark">
