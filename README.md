@@ -7,5 +7,3 @@ This GitHub repository allows anyone to assit in updating the [LASA Class of 201
 - [ ] Add Cameron K. photo
 
 #### Possible Updates
-- [ ] Firebase script for file extensions
-- [ ] Migrate to Jekyll
