@@ -1,3 +1,6 @@
-#local Firebase scripts
-firebaseDeploy.txt
-firebaseDeploy.bat
+# Specifies intentionally untracked files to ignore when using Git
+# http://git-scm.com/docs/gitignore
+
+#Built CSS
+main.css
+main.min.css
