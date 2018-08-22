@@ -6,7 +6,7 @@ This project uses HTML along with CSS built with Sass on the [Bootstrap 4.0](htt
 All changes that are submitted will be reviewed by [Griffin](https://griffindvs.com) before being added to the site. Please view the suggestions below if you would like to contribute.
 
 #### Necessary Updates
-- [ ] Add Danika L. biography and photo
-- [ ] Add Cameron K. photo
+- [x] Add Danika L. biography and photo
+- [x] Add Cameron K. photo
 
 #### Possible Updates
