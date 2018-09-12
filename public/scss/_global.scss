@@ -78,6 +78,22 @@ img::-moz-selection {
   background: transparent;
 }
 
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #271f3a;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #7D40EF;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #6027EE;
+}
+
 body {
   -webkit-tap-highlight-color: $gray-900;
 }
