@@ -2,13 +2,13 @@
 #mainNav {
   border-bottom: 1px solid fade-out($gray-900, .9);
   background-color: $white;
-  @include sans-serif-font;
+  @include font;
   @include transition-all;
   .navbar-brand {
     font-weight: 700;
     text-transform: uppercase;
     color: $primary;
-    @include sans-serif-font;
+    @include font;
     &:focus,
     &:hover {
       color: darken($primary, .1);

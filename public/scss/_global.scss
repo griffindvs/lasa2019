@@ -6,7 +6,8 @@ html {
 }
 
 body {
-  @include serif-font;
+  @include font;
+  font-weight: 400;
 }
 
 hr {
@@ -33,7 +34,8 @@ h3,
 h4,
 h5,
 h6 {
-  @include sans-serif-font;
+  @include font;
+  font-weight: 700;
 }
 
 .bg-primary {
@@ -87,11 +89,11 @@ img::-moz-selection {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #7D40EF;
+  background: #8954dd;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #6027EE;
+  background: #7243b5;
 }
 
 body {
