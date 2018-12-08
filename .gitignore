@@ -2,7 +2,7 @@
 # http://git-scm.com/docs/gitignore
 
 #Built CSS
-main.css
-main.min.css
+#main.css
+#main.min.css
 
 .firebase
