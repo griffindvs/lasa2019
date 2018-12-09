@@ -35,6 +35,16 @@
       }
     }
   }
+  a.dropdown-item:active {
+    background-color: $gray-200 !important;
+  }
+  a.dropdown-item.active {
+    background-color: $primary !important;
+    color: white;
+  }
+  a.dropdown-toggle {
+    padding-left: 25px;
+  }
   @media (min-width: 992px) {
     border-color: transparent;
     background-color: transparent;
