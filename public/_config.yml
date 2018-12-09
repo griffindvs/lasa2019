@@ -14,6 +14,9 @@ collections:
   pages:
     output: true
     permalink: /:name
+  archive:
+    output: true
+    permalink: /archive/:name
 
 sass:
   sass_dir: _sass
