@@ -11,6 +11,7 @@ All pages, with the exception of `404.html`, run off of the `default.html` layou
 1. Install a [Ruby Development Environment](https://jekyllrb.com/docs/installation/)
 2. Install Jekyll and bundler gems
    - Run `gem install jekyll bundler` in a terminal
+   - Run `gem install jekyll-sitemap
 3. Change to the site directory
 4. Serve the site to see changes during development
    - Run `jekyll serve`
