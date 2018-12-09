@@ -1,14 +1,14 @@
 {
     "name": "LASA 2019",
-    "short_name": "LASA 2019",
+    "short_name": "LASA19",
     "icons": [
         {
-            "src": "/android-chrome-192x192.png?v=pgekml4QMe",
+            "src": "/assets/compat/android-chrome-192x192.png?v=pgekml4QMe",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "/android-chrome-512x512.png?v=pgekml4QMe",
+            "src": "/assets/compat/android-chrome-512x512.png?v=pgekml4QMe",
             "sizes": "512x512",
             "type": "image/png"
         }
