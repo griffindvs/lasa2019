@@ -8,6 +8,7 @@ description: >-
 markdown: kramdown
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 collections:
   pages:
