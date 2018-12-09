@@ -1,0 +1,31 @@
+
+title: LASA 2019
+email: griffin@lasa2019.com
+description: >-
+  The home of LASA's class of 2019.
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+collections:
+  pages:
+    output: true
+    permalink: /:name
+
+sass:
+  sass_dir: _sass
+  style: compact
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

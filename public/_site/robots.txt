@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://lasa2019.com/sitemap.xml
