@@ -9,15 +9,16 @@ All pages, with the exception of `404.html`, run off of the `default.html` layou
 
 ## Building the Site
 1. Install a [Ruby Development Environment](https://jekyllrb.com/docs/installation/)
-2. Install Jekyll and bundler gems
+2. Navigate to the `public` directory in a terminal
+3. Install Jekyll and bundler gems
    - Run `gem install jekyll bundler` in a terminal
-3. Change to the site directory
-4. Install all dependencies via the `Gemfile`
+4. Change to the site directory
+5. Install all dependencies via the `Gemfile`
    - Run `bundle install`
-5. Serve the site to see changes during development
+6. Serve the site to see changes during development
    - Run `bundle exec jekyll serve`
    - The site will be live at [http://localhost:4000/](http://localhost:4000/)
-6. Build the site for deployment
+7. Build the site for deployment
    - Run `bundle exec jekyll build`
    - This will compile all Sass files into `assets/css/main.css`
    - The built site can be found in the `_site` folder
