@@ -16,14 +16,17 @@
           <a class="nav-link js-scroll-trigger" href="/#about">About</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link js-scroll-trigger {% if page.id == "/prom" %} active {% endif %}" href="/prom">Prom</a>
+          <a class="nav-link js-scroll-trigger {% if page.id == "/lipdub" %} active {% endif %}" href="{% link _pages/lipdub.html %}">Lip Dub</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger {% if page.id == "/prom" %} active {% endif %}" href="{% link _pages/prom.html %}">Prom</a>
         </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">More</a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
             <a class="dropdown-item" href="https://schedules.lasa2019.com" target="_blank">Schedules</a>
             <a class="dropdown-item" href="https://r.camk.co/chrome-schedules" target="_blank">Schedules for Chrome</a>
-            <a class="dropdown-item {% if page.id == "/run" %} active {% endif %}" href="/run">StuCo Elections</a>
+            <a class="dropdown-item {% if page.id == "/run" %} active {% endif %}" href="{% link _pages/run.html %}">StuCo Elections</a>
             <div class="dropdown-divider"></div>
             <a class="dropdown-item nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Archive</a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
