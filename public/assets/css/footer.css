@@ -5,10 +5,10 @@
 }
 
 @media screen and (min-width: 480px){
-	.footer-distributed{
-		height: 155px;
+	.footer-distributed {
+		min-height: 155px;
 	}
-}
+} 
 
 .footer-distributed{
 	background-color: #292c2f;
@@ -52,7 +52,7 @@
 .footer-distributed .footer-right{
 	float: right;
 	margin-top: 6px;
-	max-width: 180px;
+	max-width: 250px;
 }
 
 .footer-distributed .footer-right a{
@@ -70,7 +70,7 @@
 	margin-left: 3px;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 750px) {
 
 	.footer-distributed .footer-left,
 	.footer-distributed .footer-right{
