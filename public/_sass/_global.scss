@@ -38,6 +38,12 @@ h6 {
   font-weight: 700;
 }
 
+.alert-primary {
+  background-color: lighten($primary, 30%);
+  border-color: lighten($primary, 15%);
+  color: darken($primary, 30%);
+}
+
 .bg-primary {
   background-color: $primary !important;
 }
