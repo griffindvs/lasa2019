@@ -9,16 +9,10 @@ body {
   @include font;
   font-weight: 400;
   -webkit-tap-highlight-color: $gray-900;
-  background-color: #0F081A;
 }
 
 section {
   padding: 8rem;
-
-  // @media (min-width: 992px) {
-  //   padding: 2rem;
-  //   padding-top: 6rem;
-  // }
 }
 
 h1,
@@ -35,15 +29,14 @@ hr {
   max-width: 500px;
   border-width: 3px;
   border-color: $primary;
-}
 
-hr.light {
-  border-color: $white;
-}
-
-hr.left-line {
-  max-width: 150px;
-  border-width: 10px;
+  &.light {
+    border-color: $white;
+  }
+  &.left-line {
+    max-width: 150px;
+    border-width: 10px;
+  }
 }
 
 a {
