@@ -1,4 +1,4 @@
-// Global styling for this template
+// Global styling
 body,
 html {
   width: 100%;
@@ -8,24 +8,7 @@ html {
 body {
   @include font;
   font-weight: 400;
-}
-
-hr {
-  max-width: 50px;
-  border-width: 3px;
-  border-color: $primary;
-}
-
-hr.light {
-  border-color: $white;
-}
-
-a {
-  color: $primary;
-  @include transition-all;
-  &:hover {
-    color: darken($primary, .1);
-  }
+  -webkit-tap-highlight-color: $gray-900;
 }
 
 h1,
@@ -36,6 +19,77 @@ h5,
 h6 {
   @include font;
   font-weight: 700;
+}
+
+hr {
+  max-width: 500px;
+  border-width: 3px;
+  border-color: $primary;
+}
+
+hr.light {
+  border-color: $white;
+}
+
+hr.left-line {
+  max-width: 150px;
+  border-width: 10px;
+}
+
+a {
+  color: $primary;
+  &:hover {
+    color: darken($primary, 10%);
+  }
+}
+
+a.home-links-text {
+  color: $white;
+  &:hover {
+    color: $white;
+    text-decoration: none;
+  }
+}
+
+a.home-links-icon {
+  color: $white;
+  &:hover {
+    color: $gray-400;
+  }
+}
+
+.about {
+  a {
+    color: lighten($primary, 25%);
+    text-decoration: underline;
+    &:hover {
+      color: lighten($primary, 10%);
+    }
+  }
+}
+
+.about {
+  font-size: 16pt;
+  padding-top: 2rem;
+}
+
+a.home-footer-link {
+  font-size: 14pt;
+  color: $gray-400;
+  text-decoration: none;
+  &:hover {
+    color: $gray-500;
+  }
+}
+
+p.home-footer {
+  font-size: 14pt;
+  color: $gray-400;
+}
+
+p.home-footer-copy {
+  font-size: 12pt;
+  color: $gray-600;
 }
 
 .alert-primary {
@@ -57,7 +111,7 @@ h6 {
 }
 
 section {
-  padding: 8rem 0;
+  padding: 8rem;
 }
 
 .section-heading {
@@ -100,8 +154,4 @@ img::-moz-selection {
 
 ::-webkit-scrollbar-thumb:hover {
   background: #7243b5;
-}
-
-body {
-  -webkit-tap-highlight-color: $gray-900;
 }
