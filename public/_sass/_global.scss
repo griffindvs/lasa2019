@@ -9,6 +9,16 @@ body {
   @include font;
   font-weight: 400;
   -webkit-tap-highlight-color: $gray-900;
+  background-color: #0F081A;
+}
+
+section {
+  padding: 8rem;
+
+  // @media (min-width: 992px) {
+  //   padding: 2rem;
+  //   padding-top: 6rem;
+  // }
 }
 
 h1,
@@ -59,6 +69,9 @@ a.home-links-icon {
 }
 
 .about {
+  font-size: 16pt;
+  padding-top: 2rem;
+
   a {
     color: lighten($primary, 25%);
     text-decoration: underline;
@@ -66,11 +79,6 @@ a.home-links-icon {
       color: lighten($primary, 10%);
     }
   }
-}
-
-.about {
-  font-size: 16pt;
-  padding-top: 2rem;
 }
 
 a.home-footer-link {
@@ -110,14 +118,6 @@ p.home-footer-copy {
   color: fade-out($white, .3);
 }
 
-section {
-  padding: 8rem;
-}
-
-.section-heading {
-  margin-top: 0;
-}
-
 ::-moz-selection {
   color: $white;
   background: $gray-900;
@@ -154,4 +154,39 @@ img::-moz-selection {
 
 ::-webkit-scrollbar-thumb:hover {
   background: #7243b5;
+}
+
+@media (max-width: 991.98px) {
+  h1 {
+    font-size: 18pt;
+  }
+  h3 {
+    font-size: 12pt;
+  }
+  section {
+    padding: 2rem;
+    padding-top: 6rem;
+  }
+  .about {
+    padding-top: 1rem;
+    font-size: 12pt;
+  }
+  a.home-links-text {
+    font-size: 10pt;
+  }
+  a.home-links-icon {
+    font-size: 6pt;
+  }
+  a.home-footer-link {
+    font-size: 10pt;
+  }
+  p.home-footer {
+    font-size: 10pt;
+  }
+  p.home-footer-copy {
+    font-size: 8pt;
+  }
+  hr.left-line {
+    border-width: 8px;
+  }
 }

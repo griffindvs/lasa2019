@@ -1,7 +1,11 @@
 // Styling for the masthead
 .masthead {
-  height: 100%;
-  background-image: url('../img/header.png');
-  background-position: center center;
+  background: url('../img/header.png') center center fixed;
   @include background-cover;
+  @media (max-width: 991.98px) {
+    width: 100%;
+  }
+  @media (min-width: 991.98px) {
+    height: 100%;
+  }
 }
