@@ -7,3 +7,4 @@ public/_site
 public/.sass-cache
 public/vendor/bundle
 public/Gemfile.lock
+firebase-debug.log
