@@ -42,6 +42,7 @@ hr {
 a {
   color: $primary;
   &:hover {
+    transition: color 150ms;
     color: darken($primary, 10%);
   }
 }
@@ -67,7 +68,7 @@ a.home-links-icon {
 
   a {
     color: lighten($primary, 25%);
-    text-decoration: underline;
+    text-decoration: none;
     &:hover {
       color: lighten($primary, 10%);
     }
