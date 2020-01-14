@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/gcd
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://lasa2019.com
+  * I am gcd (https://keybase.io/gcd) on keybase.
+  * I have a public key with fingerprint 3BDB 0D84 5240 6E9F B09F  054E 7668 C54F F0A2 1A74
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01204fa6f073dcd63a0d875b08d3d0d2ecaecbbdf9d6bfe0d9fabab2f63ee357d0ba0a",
+      "fingerprint": "3bdb0d8452406e9fb09f054e7668c54ff0a21a74",
+      "host": "keybase.io",
+      "key_id": "7668c54ff0a21a74",
+      "kid": "01016fec0589a0338a776bc20ebf8413f4f290dfe57c396929032a341a9514c82f3f0a",
+      "uid": "a4047ae365ca99672328c618e5b05219",
+      "username": "gcd"
+    },
+    "service": {
+      "hostname": "lasa2019.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1560186506,
+  "expire_in": 157680000,
+  "prev": "522c0f81944a9deb52eba735fbf64820833e59b7a1fa1cf9d02884791f63191d",
+  "seqno": 17,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.0
+Comment: https://keybase.io/crypto
+
+yMNqAnicbVJpTFRXGB22No5QN2xYhMhjK2Yg9+3vQdpCzRRCrUKNkLbIeO9798ED
+ZmEWFqcUqGgVUwOhrUCbUg0NhBAXBLH9xaCmKbR0oQZtbI3Q4BQsiEhrULBviP7r
+/XNzv++cc8+3XAkJ0On9Koqv7rl3OsLpN+ppcekKVk80uglklauJVDdRitcuXCZj
+h9NUqspEKgFICjAK5BTA07IkczQEssCzCAgyLQOZwhLEEkKyIsocUjCQRQUiiCiF
+ozGmWV4GCAJIGAhFtRRhu82uWpyaLI1kpAkxLMUADosKAqICWAbzHCdILKMoAFIk
+5BmNWGx1+BiaOQQdOEW1ajHtYVqz9z/4Z74BySlYAqwgQkDTAuR5DkkUwEgRGJJW
+GIUSgaxglpdokRO1B01BmiGhyJKMJFAKraz5dq3JQQYwPMQ0x0pQFDmeoilB4kgB
+a51gKVL0AR3YboFmrKGLJJmoMRBaoEKVsK+nviKeJsugA1KAFFMkq1mj2exWp1Wy
+lmmZYqfT5kj1MZ3VNh+0EiPTUxETUi2y1kKNUYHtDtVqIVJJDSk5VZ8qyXKAFDgW
+cAYCV9lUOzapPgTLcwLQju8fXKFJshQlAUUgRYaBoowRS2EEeZpVkMIxAgUEmsas
+iHhIKpCUtKkCShAYXiS1gZIiKRO+ssotVk2b13zCIk3ToRZZoNNlx0TNsKcgUOen
+1z0X5O/bLZ1+3cZnG5eyacOTrMt+K+Y2T07GOz2FC6l5QfcqW7cuH/Em1jsbf4qM
+957s60CZ+ZvrIwq94fjs+Ve7j3/Seuml2BNH5T/7d16/2Hlk8kapabotveE23J08
+di5ptmtfWOhrVZ9NZJgzpvZPbz/V98PlhAH7jgcBO2mzDvVd+Ni/JQEYHgy4Wxaz
+7y4OfjFiC774ypn1PflJ83lGvWQbCZ4gj2deGYvMa6zMzv+bWtpbs6UlqWOu64P1
+9cFz8Uvg09HlmRdHvixc7i6w9uYObXQZ2o3XYXH0JtdUsjd0plwqaq69Fncu7dEw
+/Ob+rsGVrd5Ts2e9EfGeg8/fIb/tlYAzcF/t9+y2hhVXwM8F7RmP9nT2BwXOHLB/
+/vCj2sNqTn8c1eXe/IS4Svx1QE8cDs88uBwb8/5Q1r9j/4z2pp0fn42MiKoo0XXe
+Cm0LWf5x4Q73Zogk/aLadJN3dyhhi5M5ds8LvCW6KWUbePfhYu3RjnSi9OvcwWsN
+N7c3pdf5n461Rq4L2luHq6YPTTwOH2rMfiPGVXWrmin3Ny4OxGcl9vwxVd0O3uqI
+Ws1l64YbbrPm+QutE+6ODR6/5vH4+7uNOfrR8YX9yFPe83Z2DBo1GOt/626yMsbH
+CdNbfi0Je3lX5O/FX323supeiTrU15kYl11yyei60XzS8XqylDt/pnVwbunD7vL3
+BqMrb6Z5jv0HWaC9Qw==
+=bYk8
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gcd
+
+==================================================================
